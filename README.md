@@ -1,5 +1,5 @@
 ## Azure Analysis Services
-Keywords: Data Platform  
+**Keywords**: Data Platform  
 
 **Youtube Playlist**: [https://youtube.com/playlist?list=PL3CylihEP9UTM9IXiEyIdZ7owjV7OqV1r](https://youtube.com/playlist?list=PL3CylihEP9UTM9IXiEyIdZ7owjV7OqV1r)
 
