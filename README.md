@@ -13,3 +13,4 @@ Nesse vídeo apresentamos como utilizar o software Tabular Editor 3 para criar o
 
 ### [4 - Atualizar Modelo de Dados Azure Analysis Services Automaticamente](/azure-analysis-services-atualizar-modelo-dados-automatico.md)
 Apresentamos nesse vídeo como solicitar a atualização do modelo de dados do Azure Analysis Services utilizando o Azure Data Factory.
+
