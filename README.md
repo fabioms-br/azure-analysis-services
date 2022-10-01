@@ -1,7 +1,7 @@
 ## Azure Analysis Services
 **Keywords**: Data Platform  
 
-**Youtube Playlist**: <a href="http://stackoverflow.com](https://youtube.com/playlist?list=PL3CylihEP9UTM9IXiEyIdZ7owjV7OqV1r" target="_blank"> https://youtube.com/playlist?list=PL3CylihEP9UTM9IXiEyIdZ7owjV7OqV1r</a>
+**Youtube Playlist**: [https://youtube.com/playlist?list=PL3CylihEP9UTM9IXiEyIdZ7owjV7OqV1r](https://youtube.com/playlist?list=PL3CylihEP9UTM9IXiEyIdZ7owjV7OqV1r)
 
 ### [1 - Como criar e Quanto Custa Azure Analysis Services ](/azure-analysis-services-criar-recurso.md)
 Apresentamos nesse vídeo com criar o recurso Azure Analysis Services para disponbilizar a camada semântica dos dados, e quanto custa manter esse serviço.
