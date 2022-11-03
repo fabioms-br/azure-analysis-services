@@ -5,6 +5,8 @@
 😉 Gostou do conteúdo? Inscreva-se também no canal: [http://www.fabioms.com.br/?url=youtube-subscribe](http://www.fabioms.com.br/?url=youtube-subscribe)
 
 > **Youtube playlist**: [https://youtube.com/playlist?list=PL3CylihEP9UTM9IXiEyIdZ7owjV7OqV1r](https://youtube.com/playlist?list=PL3CylihEP9UTM9IXiEyIdZ7owjV7OqV1r)  
+
+
 ## [1. Como criar e Quanto Custa Azure Analysis Services ](/azure-analysis-services-criar-recurso.md)
 Apresentamos nesse vídeo com criar o recurso Azure Analysis Services para disponbilizar a camada semântica dos dados, e quanto custa manter esse serviço.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-analysis-services-criar-recurso](http://www.fabioms.com.br/?url=azure-analysis-services-criar-recurso)  
