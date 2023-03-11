@@ -16,17 +16,17 @@ Iremos conhecer as técnicas:
 🔹Consumir o modelo de dados no Power BI (GET DATA, AZURE ANALYSIS SERVICES, CONNECT LIVE)
 
 ▶️ Acesse o vídeo no link abaixo:
-http://www.fabioms.com.br/?url=analysis-services-criar-modelo-dados-tabular-editor
+https://www.fabioms.com.br/?url=analysis-services-criar-modelo-dados-tabular-editor
 
 📁 Arquivos disponíveis no GitHub, não esquece de seguir:
-http://www.fabioms.com.br/?url=github
+https://www.fabioms.com.br/?url=github
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
-http://www.fabioms.com.br/?url=youtube-subscribe 
+https://www.fabioms.com.br/?url=youtube-subscribe 
 
 🎁 Banco de Dados para Estudo SQL:
 Se você quer uma base para estudar liguagem #SQL ou #BusinessIntelligence, elaborar seu curso ou treinamento, aqui você encontrará material. 
 Contribua e cite o projeto para fortalecê-lo!
-http://www.fabioms.com.br/?url=github-estudados
+https://www.fabioms.com.br/?url=github-estudados
 
 #microsoft #dataplataform #azure #AnalysisServices #mvp #mvpbr #DicaDoFabinho  

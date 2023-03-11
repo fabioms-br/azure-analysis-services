@@ -16,18 +16,18 @@ Iremos conhecer as técnicas:
 🔹Obter o script JSON de atualização utilizando o SSMS (SQL SERVER MANAGEMENT STUDIO)
 
 ▶️ Acesse o vídeo no link abaixo:
-http://www.fabioms.com.br/?url=azure-analysis-services-atualizar-modelo-dados-automatico
+https://www.fabioms.com.br/?url=azure-analysis-services-atualizar-modelo-dados-automatico
 
 😉 Gostou do conteúdo? Inscreva-se também no canal:
-http://www.fabioms.com.br/?url=youtube-subscribe 
+https://www.fabioms.com.br/?url=youtube-subscribe 
 
 Contéudo relacionado:
 🔗Como Pausar e Iniciar Automaticamente o Azure Analysis Services
-http://www.fabioms.com.br/?url=azure-analysis-services-pausar-iniciar-automatico-recurso
+https://www.fabioms.com.br/?url=azure-analysis-services-pausar-iniciar-automatico-recurso
 
 🎁 Banco de Dados para Estudo SQL:
 Se você quer uma base para estudar liguagem #SQL ou #BusinessIntelligence, elaborar seu curso ou treinamento, aqui você encontrará material. 
 Contribua e cite o projeto para fortalecê-lo!
-http://www.fabioms.com.br/?url=github-estudados
+https://www.fabioms.com.br/?url=github-estudados
 
 #microsoft #dataplataform #azure #AnalysisServices #mvp #mvpbr #DicaDoFabinho 
