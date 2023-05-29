@@ -12,7 +12,7 @@ Apresentamos nesse vídeo com criar o recurso Azure Analysis Services para dispo
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-analysis-services-criar-recurso](http://www.fabioms.com.br/?url=azure-analysis-services-criar-recurso)  
 
 ## [2. Como Pausar e Iniciar Automaticamente o Azure Analysis Services](/azure-analysis-services-pausar-iniciar-automatico-recurso.md)
-Nesse vídeo iremos pausar e iniciar a instância Azure Analysis Services automaticamente utilizando requisição HTPP e o agendamento de gatilho do Azure Data Factory.
+Nesse vídeo iremos pausar e iniciar a instância Azure Analysis Services automaticamente utilizando requisição HTPP e o agendamento de gatilho do Azure Data Factory
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-analysis-services-pausar-iniciar-automatico-recurso](http://www.fabioms.com.br/?url=azure-analysis-services-pausar-iniciar-automatico-recurso)  
 
 ## [3. Criar modelo de dados Azure Analysis Services no Tabular Editor](/analysis-services-criar-modelo-dados-tabular-editor.md)
