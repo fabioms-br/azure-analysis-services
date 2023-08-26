@@ -8,7 +8,7 @@
 
 
 ## [1. Como criar e Quanto Custa Azure Analysis Services ](/azure-analysis-services-criar-recurso.md)
-Apresentamos nesse vídeo com criar o recurso Azure Analysis Services para disponbilizar a camada semântica dos dados, e quanto custa manter esse serviço.
+Como criar o recurso Azure Analysis Services para disponbilizar a camada semântica dos dados, e quanto custa manter esse serviço
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-analysis-services-criar-recurso](http://www.fabioms.com.br/?url=azure-analysis-services-criar-recurso)  
 
 ## [2. Como Pausar e Iniciar Automaticamente o Azure Analysis Services](/azure-analysis-services-pausar-iniciar-automatico-recurso.md)

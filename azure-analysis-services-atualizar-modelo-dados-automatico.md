@@ -1,6 +1,6 @@
 ## Atualizar Modelo de Dados Azure Analysis Services Automaticamente
 
-<img src="https://fabioms.com.br//uploads/youtube/dqTlRRviu8A.png" alt="Atualizar Modelo de Dados Azure Analysis Services Automaticamente" title="Azure Analysis Services" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide87.png" alt="Atualizar Modelo de Dados Azure Analysis Services Automaticamente" title="Azure Analysis Services" width="320"/>
 
 Apresentamos nesse vídeo como solicitar a atualização do modelo de dados do Azure Analysis Services utilizando o Azure Data Factory.
 

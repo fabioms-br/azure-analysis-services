@@ -1,6 +1,6 @@
 ## Como criar e Quanto Custa Azure Analysis Services 
 
-<img src="https://fabioms.com.br//uploads/youtube/G6k66_FZUtA.png" alt="Como criar e Quanto Custa Azure Analysis Services " title="Azure Analysis Services" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide82.png" alt="Como criar e Quanto Custa Azure Analysis Services " title="Azure Analysis Services" width="320"/>
 
 Apresentamos nesse vídeo com criar o recurso Azure Analysis Services para disponbilizar a camada semântica dos dados, e quanto custa manter esse serviço.
 

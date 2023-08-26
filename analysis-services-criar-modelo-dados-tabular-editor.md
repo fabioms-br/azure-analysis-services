@@ -1,6 +1,6 @@
 ## Criar modelo de dados Azure Analysis Services no Tabular Editor
 
-<img src="https://fabioms.com.br//uploads/youtube/SDz8qzf2Hz8.png" alt="Criar modelo de dados Azure Analysis Services no Tabular Editor" title="Azure Analysis Services" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide86.png" alt="Criar modelo de dados Azure Analysis Services no Tabular Editor" title="Azure Analysis Services" width="320"/>
 
 Nesse vídeo apresentamos como utilizar o software Tabular Editor 3 para criar o modelo de dados do Azure Analysis Services, disponibilizando a camada semântica para o negócio.
 
